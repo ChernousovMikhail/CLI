@@ -1,0 +1,14 @@
+E:\Project from yspex\CLI\CLI\bin\Debug\netcoreapp3.1\CLI.exe
+E:\Project from yspex\CLI\CLI\bin\Debug\netcoreapp3.1\CLI.deps.json
+E:\Project from yspex\CLI\CLI\bin\Debug\netcoreapp3.1\CLI.runtimeconfig.json
+E:\Project from yspex\CLI\CLI\bin\Debug\netcoreapp3.1\CLI.runtimeconfig.dev.json
+E:\Project from yspex\CLI\CLI\bin\Debug\netcoreapp3.1\CLI.dll
+E:\Project from yspex\CLI\CLI\bin\Debug\netcoreapp3.1\CLI.pdb
+E:\Project from yspex\CLI\CLI\obj\Debug\netcoreapp3.1\CLI.csproj.AssemblyReference.cache
+E:\Project from yspex\CLI\CLI\obj\Debug\netcoreapp3.1\CLI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project from yspex\CLI\CLI\obj\Debug\netcoreapp3.1\CLI.AssemblyInfoInputs.cache
+E:\Project from yspex\CLI\CLI\obj\Debug\netcoreapp3.1\CLI.AssemblyInfo.cs
+E:\Project from yspex\CLI\CLI\obj\Debug\netcoreapp3.1\CLI.csproj.CoreCompileInputs.cache
+E:\Project from yspex\CLI\CLI\obj\Debug\netcoreapp3.1\CLI.dll
+E:\Project from yspex\CLI\CLI\obj\Debug\netcoreapp3.1\CLI.pdb
+E:\Project from yspex\CLI\CLI\obj\Debug\netcoreapp3.1\CLI.genruntimeconfig.cache
